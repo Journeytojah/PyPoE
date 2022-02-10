@@ -2010,6 +2010,8 @@ class ItemsParser(SkillParserShared):
         'Metadata/Items/MicrotransactionCurrency/MicrotransactionUpgradeScrollS13',
         'Metadata/Items/MicrotransactionCurrency/MicrotransactionUpgradeScrollS15',
         'Metadata/Items/MicrotransactionCurrency/MicrotransactionUpgradeScrollS16',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionUpgradeScrollS17',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionUpgradeScrollS18',
         'Metadata/Items/MicrotransactionCurrency/MicrotransactionSalvageFragmentSmall',
         'Metadata/Items/MicrotransactionCurrency/MicrotransactionSalvageFragment',
         'Metadata/Items/MicrotransactionCurrency/MicrotransactionSalvageFragmentLarge',
@@ -2183,6 +2185,10 @@ class ItemsParser(SkillParserShared):
         'Metadata/Items/MicrotransactionItemEffects/MicrotransactionTencentCharacterPortrait5',
         'Metadata/Items/MicrotransactionItemEffects/MicrotransactionTencentCharacterPortrait6',
         'Metadata/Items/MicrotransactionItemEffects/MicrotransactionTencentCharacterPortrait7',
+        
+        
+        'Metadata/Items/MicrotransactionItemEffects/MicrotransactionExtraGore',
+
 
         'Metadata/Items/MicrotransactionCurrency/TradeMarketTab',
         'Metadata/Items/MicrotransactionCurrency/TradeMarketBuyoutTab',
@@ -2202,6 +2208,24 @@ class ItemsParser(SkillParserShared):
         'Metadata/Items/MicrotransactionCurrency/ProxySkinTransferPack5',
         'Metadata/Items/MicrotransactionCurrency/ProxySkinTransferPack10',
         'Metadata/Items/MicrotransactionCurrency/ProxySkinTransferPack50',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionPetConvertToNormalScrollSpringDaughterOfSin',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionPetConvertToSpecialScrollSpringDaughterOfSin',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionPetConvertAndUpgradeScrollSpringDaughterOfSin',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionPetConvertToNormalScrollSpringHasina',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionPetConvertToSpecialScrollSpringHasina',
+        'Metadata/Items/MicrotransactionCurrency/MicrotransactionPetConvertAndUpgradeScrollSpringHasina',
+
+        #
+        # Dance MTX
+        #
+
+        'Metadata/Items/MicrotransactionAnimations/MicrotransactionDanceDuelist',
+        'Metadata/Items/MicrotransactionAnimations/MicrotransactionDanceMarauder',
+        'Metadata/Items/MicrotransactionAnimations/MicrotransactionDanceRanger',
+        'Metadata/Items/MicrotransactionAnimations/MicrotransactionDanceShadow',
+        'Metadata/Items/MicrotransactionAnimations/MicrotransactionDanceTemplar',
+        'Metadata/Items/MicrotransactionAnimations/MicrotransactionDanceWitch',
+        'Metadata/Items/MicrotransactionAnimations/MicrotransactionDanceScion',
 
         #
         # Hideout Doodads
